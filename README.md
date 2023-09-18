@@ -9,5 +9,4 @@ databases and nutrition APIs to retrieve information about the nutrient content 
 track their progress towards their goals.This project has the potential to revolutionize the field of nutrition and provide individuals with more accurate and effective tools to improve their health and well-being.
 
 
-Architecture Diagram:
 
